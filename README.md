@@ -10,7 +10,7 @@
 ### :space_invader: &nbsp;About Me
 
 &nbsp;&nbsp;&nbsp;:technologist: &nbsp;MERN Stack  \
-&nbsp;&nbsp;&nbsp;:seedling: &nbsp;Love for science and innovation.\
+&nbsp;&nbsp;&nbsp;:seedling: &nbsp;Love for TECH\
 &nbsp;&nbsp;&nbsp;:heartbeat: &nbsp;Passionate with problem solving and daily routines automation.\
 &nbsp;&nbsp;&nbsp;:man: &nbsp;Living in India with some innerpeace: .
 
